@@ -1,0 +1,5 @@
+Bachelor’s Degree in Mechanical Engineering from Universidade Estadual Paulista (UNESP) and Technical Degree in Computer Science for the Internet from Instituto Federal de São Paulo (IFSP), with a focus on continuous process improvement and data analysis.
+
+My professional background includes internships in Quality Engineering and Maintenance Engineering, where I contributed to the development of process automatization tools, dashboard creation, and KPI definition. As a Trainee/Junior Analyst, I worked in Industrial Planning and Scheduling, also performing data analyst functions, with an emphasis on creating tools and solutions for analysis and decision-making support, primarily using Python, SQL, and Microsoft Power Platform tools.
+
+Currently, I am working as a continuous improvement analyst in Supply Chain and, in parallel, I am pursuing a specialization in Project Management at DNC School. I am always looking for new opportunities to apply my skills in process optimization, data analysis, and continuous improvement to drive innovation and contribute to organizational success.
