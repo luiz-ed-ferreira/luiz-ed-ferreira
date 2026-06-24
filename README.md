@@ -1,4 +1,4 @@
-Bachelor's degree in Mechanical Engineering from UNESP with a postgraduate degree in Project Management and Six Sigma Black Belt certification from Escola DNC, focusing on continuous process improvement and data analysis. Experience reporting strategic indicators, leading process automation and optimizing resources. Currently focused on Data Analysis and Automation, applying agile methodologies (Scrum), Python, SQL and Microsoft Power Platform (BI, Apps, Automate) to transform operational data into strategic decisions.
+Bachelor's degree in Mechanical Engineering from UNESP with a specialization in Project Management and Six Sigma Black Belt certification from Escola DNC, focusing on continuous process improvement and data analysis. Experience reporting strategic indicators, leading process automation and optimizing resources. Currently focused on Data Analysis and Automation, applying agile methodologies (Scrum), Python, SQL and Microsoft Power Platform (BI, Apps, Automate) to transform operational data into strategic decisions.
 
 My background includes:
 
