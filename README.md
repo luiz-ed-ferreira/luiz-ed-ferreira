@@ -1,3 +1,5 @@
+# Sobre mim / About Me
+
 [PT-BR] 
 Bacharel em Engenharia pela UNESP, com especialização em Gestão de Projetos e certificado Six Sigma Black Belt pela Escola DNC, e atualmente cursando MBA em Data Science, Inteligência Artificial e Analytics pela USP/Esalq. Experiência em indicadores estratégicos, automação de processos e otimização de recursos, com foco em Ciência de Dados, BI, Melhoria Contínua e transformação de dados em decisões estratégicas utilizando Scrum, Python, SQL e Microsoft Power Platform (Power BI, Power Apps e Power Automate).
 
