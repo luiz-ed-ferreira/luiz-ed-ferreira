@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luiz Eduardo Ferreira
+# 👋 Hi, I'm Luiz Eduardo
 
 ### **Analytics Engineer | Data Analysis | Data Science | Continuos Improvement | Six Sigma Black Belt**
 
@@ -24,47 +24,65 @@ I'm particularly interested in **Data Science, Data Analytics, Machine Learning,
 ---
 
 ## 🛠️ Tech Stack
+<table>
+<tr>
 
-### Programming & Data
+<td valign="top" width="33.33%">
+
+### 🐍 Programming & Data
 
 `Python` `SQL` `Pandas` `NumPy` `Scikit-learn`
 
-### Machine Learning
+### 🤖 Machine Learning
 
 `Regression` `Decision Trees` `Neural Networks`  
-`Feature Engineering` `Model Evaluation` `Hyperparameter Tuning`
+`Feature Engineering` `Model Evaluation`  
+`Hyperparameter Tuning`
 
-### APIs & Backend
+### 🔌 APIs & Backend
 
 `REST APIs` `FastAPI` `Flask` `JSON`
 
-### Data Visualization
+</td>
+
+<td valign="top" width="33.33%">
+
+### 📊 Data Visualization
 
 `Power BI` `Matplotlib` `Seaborn` `Streamlit`
 
-### Databases
+### 🗄️ Databases
 
 `PostgreSQL` `Oracle` `MySQL`
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 `AWS` `Docker` `Git` `GitHub`
 
-### Automation & Business Tools
+### ⚙️ Automation & Business
 
 `Power Automate` `Power Apps` `VBA` `SAP`
 
-### Web Design
+</td>
+
+<td valign="top" width="33.33%">
+
+### 🌐 Web Design
 
 `HTML` `CSS` `JavaScript` `PHP`
 
-### Engineering
+### 🏗️ Engineering
 
 `AutoCAD` `Inventor`
 
-### Methodologies
+### 📐 Methodologies
 
 `Six Sigma` `DMAIC` `PDCA` `DOE` `ANOVA` `Scrum` `Agile`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
