@@ -1,17 +1,112 @@
-# Sobre mim / About Me
+# 👋 Hi, I'm Luiz Eduardo Ferreira
 
-[PT-BR] 
-Bacharel em Engenharia pela UNESP, com especialização em Gestão de Projetos e certificado Six Sigma Black Belt pela Escola DNC, e atualmente cursando MBA em Data Science, Inteligência Artificial e Analytics pela USP/Esalq. Experiência em indicadores estratégicos, automação de processos e otimização de recursos, com foco em Ciência de Dados, BI, Melhoria Contínua e transformação de dados em decisões estratégicas utilizando Scrum, Python, SQL e Microsoft Power Platform (Power BI, Power Apps e Power Automate).
+### **Analytics Engineer | Data Analysis | Data Science | Continuos Improvement | Six Sigma Black Belt**
 
-Minha trajetória abrange: 
-* Estágios nas áreas de Engenharia da Qualidade e de Manutenção, onde contribui no desenvolvimento de ferramentas de automatização de processos, criação de dashboards e de KPIs; 
-* Como Global Trainee tive um breve período de treinamento internacional na Argentina e atuei nas áreas de Programação e Planejamento Industrial, além de desempenhar funções de analista de dados, com ênfase em criação de ferramentas digitais e soluções para análise e apoio à tomada de decisões de budget;
-* Em minha última função, atuei como Analista Sênior de Planejamento de Recursos de Supply Chain, participando de iniciativas de gestão de estoques para aumentar a eficiência operacional, reduzir desperdícios e apoiar decisões estratégicas. 
+Bachelor's degree in Engineering from UNESP, with a specialization in Project Management and Six Sigma Black Belt certification from Escola DNC, and currently pursuing an MBA in Data Science, Artificial Intelligence, and Analytics at USP/Esalq. 
 
-[ENG] 
-Bachelor's degree in Engineering from UNESP, with a specialization in Project Management and Six Sigma Black Belt certification from Escola DNC, and currently pursuing an MBA in Data Science, Artificial Intelligence, and Analytics at USP/Esalq. Experienced in strategic KPI reporting, process automation, and resource optimization, with a focus on Data Science, BI, Continuous Improvement and transforming data into strategic business decisions using Scrum, Python, SQL, and the Microsoft Power Platform (BI, Apps, and Automate).
+My professional journey combines **engineering problem-solving, process optimization and data-driven decision making**.
 
-My background includes:
-* Internships in the areas of Quality and Maintenance Engineering, where I contributed to the development of process automation tools, dashboard creation, and KPI design; 
-* As a Global Trainee, I underwent a short international training period in Argentina and worked in Industrial Scheduling and Industrial Planning areas. I also performed data analyst functions, with an emphasis on developing digital tools and solutions to support analysis and budgetary decision-making;
-* In my most recent role, I served as a Senior Resource Planning Analyst in Supply Chain, participating in inventory management, resource planning, and data-driven improvement initiatives to optimize operational performance, minimize waste, and support strategic business decisions.
+I'm particularly interested in **Data Science, Data Analytics, Machine Learning, Process Automation and Continuous Improvement**.
+
+---
+
+## 🧠 What I Do
+
+- 📊 Data Analysis & Visualization
+- 🤖 Machine Learning & Predictive Modeling
+- 🐍 Python for Data Science and Automation
+- 🗄️ SQL & Database Analysis
+- ⚙️ Process Improvement & Automation
+- 📈 KPI Development & Business Intelligence
+- 🔬 Statistical Analysis & Six Sigma
+- 🚀 Project Management & Problem Solving
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Data
+
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn`
+
+### Machine Learning
+
+`Regression` `Decision Trees` `Neural Networks`  
+`Feature Engineering` `Model Evaluation` `Hyperparameter Tuning`
+
+### APIs & Backend
+
+`REST APIs` `FastAPI` `Flask` `JSON`
+
+### Data Visualization
+
+`Power BI` `Matplotlib` `Seaborn` `Streamlit`
+
+### Databases
+
+`PostgreSQL` `Oracle` `MySQL`
+
+### Cloud & DevOps
+
+`AWS` `Docker` `Git` `GitHub`
+
+### Automation & Business Tools
+
+`Power Automate` `Power Apps` `VBA` `SAP`
+
+### Web Design
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+### Engineering
+
+`AutoCAD` `Inventor`
+
+### Methodologies
+
+`Six Sigma` `DMAIC` `PDCA` `DOE` `ANOVA` `Scrum` `Agile`
+
+---
+
+## 📈 Currently Learning
+
+I'm continuously developing my skills in:
+
+- Machine Learning
+- Statistical Modeling
+- Neural Networks
+- SQL & Data Engineering
+- Python
+- Data Analytics
+- Process Automation
+- Cloud & DevOps
+
+---
+
+> **Turning data into insights, and insights into better decisions.**
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to opportunities and collaborations involving:
+
+Feel free to explore my repositories and connect with me!
+
+<p align="left">
+  <a href="mailto:luizedf98@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/luiz-ed-ferreira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/luiz-ed-ferreira" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://wa.me/5512992547770" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
