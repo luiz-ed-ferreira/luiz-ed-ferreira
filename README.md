@@ -112,16 +112,13 @@ I'm open to opportunities and collaborations involving:
 Feel free to explore my repositories and connect with me!
 
 <p align="left">
-  <a href="mailto:luizedf98@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
+
   <a href="https://www.linkedin.com/in/luiz-ed-ferreira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://github.com/luiz-ed-ferreira" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:luizedf98@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <a href="https://wa.me/5512992547770" target="_blank">
