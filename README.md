@@ -107,8 +107,6 @@ I'm continuously developing my skills in:
 
 ## 🤝 Let's Connect
 
-I'm open to opportunities and collaborations involving:
-
 Feel free to explore my repositories and connect with me!
 
 <p align="left">
