@@ -49,11 +49,11 @@ I'm particularly interested in **Data Science, Data Analytics, Machine Learning,
 
 ### 📊 Data Visualization
 
-`Power BI` `Matplotlib` `Seaborn` `Streamlit`
+`Power BI` `Matplotlib` `Seaborn` `Streamlit` `Figma`
 
 ### 🗄️ Databases
 
-`PostgreSQL` `Oracle` `MySQL`
+`PostgreSQL` `Oracle` `MySQL` `Metabase`
 
 ### ☁️ Cloud & DevOps
 
