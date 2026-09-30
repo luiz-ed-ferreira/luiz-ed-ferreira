@@ -98,7 +98,8 @@ I'm continuously developing my skills in:
 - Data Analytics
 - Process Automation
 - Cloud & DevOps
-
+- Data Orchestration
+  
 ---
 
 > **Turning data into insights, and insights into better decisions.**
