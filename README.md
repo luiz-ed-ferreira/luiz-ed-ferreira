@@ -55,9 +55,9 @@ I'm particularly interested in **Data Science, Data Analytics, Machine Learning,
 
 `PostgreSQL` `Oracle` `MySQL` `Metabase`
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps & Data Orchestration
 
-`AWS` `Docker` `Git` `GitHub`
+`AWS` `Docker` `Apache Airflow` `Git` `GitHub`
 
 ### ⚙️ Automation & Business
 
