@@ -33,13 +33,11 @@ I'm particularly interested in **Data Science, Data Analytics, Machine Learning,
 
 ### 🐍 Programming & Data
 
-`Python` `SQL` `Pandas` `NumPy` `Scikit-learn`
+`SQL` `Python` `SQL` `Pandas` `NumPy`
 
 ### 🤖 Machine Learning
 
-`Regression` `Decision Trees` `Neural Networks`  
-`Feature Engineering` `Model Evaluation`  
-`Hyperparameter Tuning`
+`Scikit-Learn` `Regression` `Decision Trees` `Neural Networks` `Genetic Algorithm` `Feature Engineering` `Model Evaluation` `Hyperparameter Tuning`
 
 ### 🔌 APIs & Backend
 
@@ -59,7 +57,7 @@ I'm particularly interested in **Data Science, Data Analytics, Machine Learning,
 
 ### ☁️ Cloud, DevOps & Data Orchestration
 
-`AWS` `Docker` `Apache Airflow` `Git` `GitHub`
+`AWS` `Docker` `Docker Compose` `Apache Airflow` `Git` `GitHub` `Linux (Ubuntu|WSL2)` `Databricks` 
 
 ### ⚙️ Automation & Business
 
@@ -79,7 +77,7 @@ I'm particularly interested in **Data Science, Data Analytics, Machine Learning,
 
 ### 📐 Methodologies
 
-`Six Sigma` `DMAIC` `PDCA` `DOE` `ANOVA` `Scrum` `Agile`
+`Six Sigma` `DMAIC` `PDCA` `Scrum` `Kanban`
 
 </td>
 
@@ -96,7 +94,7 @@ I'm continuously developing my skills in:
 - Statistical Modeling
 - Neural Networks
 - SQL & Data Engineering
-- Python
+- Python Technologies
 - Data Analytics
 - Process Automation
 - Cloud & DevOps
