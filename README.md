@@ -43,6 +43,10 @@ I'm particularly interested in **Data Science, Data Analytics, Machine Learning,
 
 `REST APIs` `FastAPI` `Flask` `JSON`
 
+### ✨ GenAI
+
+`ChatGPT` `Claude Code` `GitHub Copilot` `Prompt Engineering`
+
 </td>
 
 <td valign="top" width="33.33%">
