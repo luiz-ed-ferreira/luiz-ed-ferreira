@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luiz Eduardo
 
-[Curriculum PT-BR](PT_BR_LuizEduardo_Ferreira_currículo_2026_v06.pdf) | [Cover Letter PT-BR](Carta%20de%20apresentação%20-%20Luiz%20Eduardo_PT_BR_v06.pdf)
+[Curriculum PT-BR](PT_BR_LuizEduardo_Ferreira_currículo_2026_v07.pdf) | [Cover Letter PT-BR](Carta%20de%20apresentação%20-%20Luiz%20Eduardo_PT_BR_v07.pdf)
 
 ### **Analytics Engineer | Data Science | Data Analytics | Python | SQL | ETL/ELT | Power BI | Databricks | Six Sigma Black Belt**
 
