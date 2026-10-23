@@ -2,7 +2,7 @@
 
 [Curriculum PT-BR](PT_BR_LuizEduardo_Ferreira_currículo_2026_v06.pdf) | [Cover Letter PT-BR](Carta%20de%20apresentação%20-%20Luiz%20Eduardo_PT_BR_v06.pdf)
 
-### **Analytics Engineer | Data Analysis | Data Science | Continuos Improvement | Six Sigma Black Belt**
+### **MBA | Analytics Engineer | Data Science | Six Sigma Black Belt | Python | SQL | Power BI**
 
 Bachelor's degree in Engineering from UNESP, with a specialization in Project Management and Six Sigma Black Belt certification from Escola DNC, and currently pursuing an MBA in Data Science, Artificial Intelligence, and Analytics at USP/Esalq. 
 
