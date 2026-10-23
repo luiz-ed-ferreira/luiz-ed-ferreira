@@ -14,13 +14,14 @@ I'm particularly interested in **Analytics Engineering, Data Analytics, Data Sci
 
 ## 🧠 What I Do
 
+- 🗄️ SQL, Data Modeling & Database Management
+- 🔄 ETL/ELT & Data Pipelines
 - 📊 Data Analysis & Visualization
+- 🐍 Python for Data Science & Automation
+- 📈 Business Intelligence, KPI Development & Reporting
 - 🤖 Machine Learning & Predictive Modeling
-- 🐍 Python for Data Science and Automation
-- 🗄️ SQL & Database Analysis
-- ⚙️ Process Improvement & Automation
-- 📈 KPI Development & Business Intelligence
-- 🔬 Statistical Analysis & Six Sigma
+- 🔬 Statistical Analysis & Feature Engineering
+- ⚙️ Process Automation & Continuous Improvement
 - 🚀 Project Management & Problem Solving
 
 ---
@@ -94,16 +95,15 @@ I'm particularly interested in **Analytics Engineering, Data Analytics, Data Sci
 
 I'm continuously developing my skills in:
 
-- Machine Learning
-- Statistical Modeling
-- Neural Networks
-- SQL & Data Engineering
-- Python Technologies
-- Data Analytics
-- Process Automation
-- Cloud & DevOps
-- Data Orchestration
-  
+- SQL, Data Modeling & Data Engineering
+- ETL/ELT & Data Pipelines
+- Data Analytics & Business Intelligence
+- Python & Data Processing
+- Machine Learning & Predictive Modeling
+- Statistical Modeling & Neural Networks
+- Data Orchestration & Workflow Automation
+- Cloud Computing & DevOps
+- Process Automation & Continuous Improvement
 ---
 
 > **Turning data into insights, and insights into better decisions.**
