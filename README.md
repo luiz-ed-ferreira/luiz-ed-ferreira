@@ -2,7 +2,7 @@
 
 [Curriculum PT-BR](PT_BR_LuizEduardo_Ferreira_currículo_2026_v06.pdf) | [Cover Letter PT-BR](Carta%20de%20apresentação%20-%20Luiz%20Eduardo_PT_BR_v06.pdf)
 
-### **Analytics Engineer | Data Analytics | Data Science | Python | SQL | ETL/ELT | Power BI | Databricks | Six Sigma Black Belt**
+### **Analytics Engineer | Data Science | Data Analytics | Python | SQL | ETL/ELT | Power BI | Databricks | Six Sigma Black Belt**
 
 Bachelor's degree in Engineering, with a specialization in Project Management and Six Sigma Black Belt certification, and currently pursuing an MBA in Data Science, Artificial Intelligence, and Analytics. 
 
