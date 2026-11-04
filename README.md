@@ -62,7 +62,7 @@ I'm particularly interested in **Analytics Engineering, Data Analytics, Data Sci
 
 ### ☁️ Cloud, DevOps & Data Orchestration
 
-`AWS` `Docker` `Docker Compose` `Apache Airflow` `Git` `GitHub` `Linux (Ubuntu|WSL2)` `Databricks` 
+`AWS` `Docker` `Docker Compose` `Apache Airflow` `Git` `GitHub` `Linux (Ubuntu|WSL2)` `Databricks` `dbt` 
 
 ### ⚙️ Automation & Business
 
