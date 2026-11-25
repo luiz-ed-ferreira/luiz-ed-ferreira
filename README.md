@@ -34,7 +34,7 @@ I'm particularly interested in **Analytics Engineering, Data Analytics, Data Sci
 
 ### 🐍 Programming & Data
 
-`SQL` `Python` `SQL` `Spark` `Pandas` `NumPy`
+`SQL` `Python` `Spark` `Pandas` `NumPy`
 
 ### 🤖 Machine Learning
 
